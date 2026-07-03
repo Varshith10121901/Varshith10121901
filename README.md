@@ -1,67 +1,59 @@
-# Hi, I'm Varshith Kumar
+## Welcome to the Agentic Era
 
-I'm an MCA student at KLE Technological University, India, passionate about Artificial Intelligence, Machine Learning, Cloud Computing, and Full-Stack Development. I enjoy building intelligent applications that solve real-world problems and continuously explore emerging technologies.
+### **VARSHITH KUMAR**
 
-## About Me
+### AI Engineer • Full Stack Developer • Open Source Contributor
 
-* AI and Machine Learning enthusiast
-* Interested in Generative AI, Agentic AI, and Large Language Models (LLMs)
-* Building scalable backend applications using Python and FastAPI
-* Learning Cloud, DevOps, and MLOps
-* Open to collaborating on innovative AI and open-source projects
+📍 Hubballi, Karnataka   |   🇮🇳 India
 
-## Tech Stack
+Building production-ready AI applications powered by **Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, PostgreSQL, Docker, and Google Cloud Platform**.
 
-### Languages
+I design intelligent systems that automate workflows, solve real-world problems, and deliver scalable cloud-native solutions—from AI assistants and computer vision applications to multi-agent platforms and enterprise APIs.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+**Launch AIAS**    **View Projects**    **Download Resume**
 
-### Frameworks & Libraries
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+## Professional Summary
 
-### AI & Machine Learning
+Passionate AI Engineer with a strong foundation in software engineering and modern AI technologies. My work focuses on developing autonomous AI systems, backend architectures, and cloud-native applications that are scalable, reliable, and production-ready.
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-0A66C2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF4088?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4CAF50?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF5722?style=for-the-badge)
+### Core Expertise
 
-### Cloud & DevOps
+* Generative AI & Large Language Models (LLMs)
+* Agentic AI & Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
+* FastAPI & Python Backend Development
+* Computer Vision & Deep Learning
+* Cloud Computing & Docker
+* PostgreSQL & API Development
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
+---
 
-### Databases
+## Featured Work
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+Building intelligent software across multiple domains.
+
+* **AIAS** — AI SaaS platform for workflow automation using intelligent AI agents.
+* **AURA Lite** — Cloud-native AI assistant deployed on Google Cloud Run.
+* **AgriLens** — AI-powered crop disease detection and farmer advisory platform.
+* **Image Scanner** — Computer vision pipeline for automated dataset preprocessing.
+* **Bank Fraud Detection** — Machine learning solution for financial fraud analysis.
+
+---
 
 ## Current Focus
 
-* Developing AI-powered applications
-* Exploring Agentic AI and LLM workflows
-* Building cloud-native solutions
+* Building production-ready AI applications
+* Designing scalable Agentic AI architectures
+* Developing cloud-native backend services
 * Contributing to open-source projects
+* Exploring advanced LLM orchestration and AI automation
 
-## Goals
+---
 
-My goal is to create impactful AI solutions that make technology more accessible, efficient, and useful for everyone. I'm always eager to learn, build, and collaborate with developers worldwide.
+## Let's Build Something Amazing
 
-📫 Feel free to explore my repositories and connect with me.
+Whether it's AI products, backend systems, cloud deployments, or open-source collaborations, I'm always excited to work on impactful technology.
+
+**Get In Touch** • **GitHub** • **LinkedIn** • **LeetCode**
