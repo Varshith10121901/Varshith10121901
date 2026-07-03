@@ -1,59 +1,29 @@
-## Welcome to the Agentic Era
+# Hi, I'm Varshith Kumar
 
-### **VARSHITH KUMAR**
+AI Engineer & Full-Stack Developer building intelligent, cloud-native systems — from GenAI agents to fraud detection pipelines. MCA student at KLE Technological University.
 
-### AI Engineer • Full Stack Developer • Open Source Contributor
+## What I'm building
 
-📍 Hubballi, Karnataka   |   🇮🇳 India
+- **AURA Lite** — AI-powered agricultural advisory platform, live on Google Cloud Run (FastAPI + Gemini API)
+- **Bank Fraud Detection** — ML classification system using ensemble methods to flag suspicious/mule accounts
+- **AIAS** — AI SaaS platform for business automation and agentic workflows
+- **OCSR Pipeline** — EfficientNet + Transformer model predicting SMILES strings from chemical structure images
 
-Building production-ready AI applications powered by **Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, PostgreSQL, Docker, and Google Cloud Platform**.
+## Tech Stack
 
-I design intelligent systems that automate workflows, solve real-world problems, and deliver scalable cloud-native solutions—from AI assistants and computer vision applications to multi-agent platforms and enterprise APIs.
+**Languages:** Python • Java • JavaScript • SQL • HTML/CSS
+**AI/ML:** Generative AI • Agentic AI (ADK) • LLMs • RAG • Prompt Engineering • NLP • Computer Vision
+**Backend:** FastAPI • Flask • PostgreSQL • MySQL
+**Cloud/DevOps:** Google Cloud Platform • Cloud Run • Docker • Vertex AI • CI/CD • Git
 
-**Launch AIAS**    **View Projects**    **Download Resume**
+## Currently
 
----
+- Building agentic AI systems with Google's ADK + Vertex AI
+- Deepening MLOps and cloud-native deployment skills
+- Open to collaborating on AI/open-source projects
 
-## Professional Summary
+## Connect
 
-Passionate AI Engineer with a strong foundation in software engineering and modern AI technologies. My work focuses on developing autonomous AI systems, backend architectures, and cloud-native applications that are scalable, reliable, and production-ready.
+Email: [your email] • LinkedIn: [your LinkedIn] • Portfolio: [your portfolio link]
 
-### Core Expertise
-
-* Generative AI & Large Language Models (LLMs)
-* Agentic AI & Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* FastAPI & Python Backend Development
-* Computer Vision & Deep Learning
-* Cloud Computing & Docker
-* PostgreSQL & API Development
-
----
-
-## Featured Work
-
-Building intelligent software across multiple domains.
-
-* **AIAS** — AI SaaS platform for workflow automation using intelligent AI agents.
-* **AURA Lite** — Cloud-native AI assistant deployed on Google Cloud Run.
-* **AgriLens** — AI-powered crop disease detection and farmer advisory platform.
-* **Image Scanner** — Computer vision pipeline for automated dataset preprocessing.
-* **Bank Fraud Detection** — Machine learning solution for financial fraud analysis.
-
----
-
-## Current Focus
-
-* Building production-ready AI applications
-* Designing scalable Agentic AI architectures
-* Developing cloud-native backend services
-* Contributing to open-source projects
-* Exploring advanced LLM orchestration and AI automation
-
----
-
-## Let's Build Something Amazing
-
-Whether it's AI products, backend systems, cloud deployments, or open-source collaborations, I'm always excited to work on impactful technology.
-
-**Get In Touch** • **GitHub** • **LinkedIn** • **LeetCode**
+Explore my pinned repos above — AURA Lite is live if you want to see it in action.
