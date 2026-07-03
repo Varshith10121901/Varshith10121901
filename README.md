@@ -24,6 +24,6 @@ AI Engineer & Full-Stack Developer building intelligent, cloud-native systems �
 
 ## Connect
 
-Email: [your email] • LinkedIn: [your LinkedIn] • Portfolio: [your portfolio link]
+Email: varshithkumar815@gmail.com • LinkedIn: https://www.linkedin.com/in/varshith-kumar-anand-7479b42a6/ • Portfolio: https://vksitestorage777.z23.web.core.windows.net/
 
-Explore my pinned repos above — AURA Lite is live if you want to see it in action.
+Explore my pinned repos above.
